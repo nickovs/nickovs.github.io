@@ -24,5 +24,5 @@ file1 = path / "file1"
 sub_file = path / "subdir" / "file2"
 {% endhighlight %}
 
-I think this might be the most udeful three lines of code I've written in a while!
+I think this might be the most useful three lines of code I've written in a while!
 
