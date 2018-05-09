@@ -2,7 +2,7 @@
 layout: post
 title:  "Easier Python paths"
 date:   2018-05-09 16:19:35 -0600
-categories: jekyll update
+categories: python gist
 ---
 
 I was recently writing some Python scripts that needed to do a lot of file path
